@@ -324,40 +324,15 @@ ALLOWED_ORIGINS=http://localhost:3000
 
 | Name | Role | Responsibilities |
 |---|---|---|
-| **Iannzee** | 👑 Team Leader | Architecture, Coordination, Pitch |
-| *(Member 2)* | 🤖 ML Engineer | RAG Pipeline, Embeddings, FAISS |
-| *(Member 3)* | ⚙️ Backend Developer | FastAPI, Intent Classifier, API |
-| *(Member 4)* | 🎨 Frontend Developer | React UI, Lab Finder, UX |
-| *(Member 5)* | 📊 Data Engineer | BIS Scraping, PDF Processing, Chunking |
-| *(Member 6)* | 🎤 Presenter | Pitch Deck, Demo Video, Documentation |
+| **Ziyan** | 👑 Team Leader | Architecture, Coordination, Pitch |
+| *Ameen* | 🤖 ML Engineer | RAG Pipeline, Embeddings, FAISS |
+| *Nayef* | ⚙️ Backend Developer | FastAPI, Intent Classifier, API |
+| *Masooma* | 🎨 Frontend Developer | React UI, Lab Finder, UX |
+| *Najma* | 📊 Data Engineer | BIS Scraping, PDF Processing, Chunking |
+| *Faizan* | 🎤 Presenter | Pitch Deck, Demo Video, Documentation |
 
 ---
 
-## 🗓️ Roadmap
-
-### ✅ Phase 1 — Foundation (Day 1–2)
-- [x] Project setup & repo structure
-- [ ] BIS PDF collection (target: 50+ documents)
-- [ ] PDF extraction pipeline
-- [ ] Basic RAG proof of concept
-
-### 🔄 Phase 2 — Core Engine (Day 2–3)
-- [ ] FAISS vector store with metadata
-- [ ] Intent classifier
-- [ ] FastAPI `/chat` endpoint
-- [ ] Source citation builder
-
-### 🔄 Phase 3 — Frontend & Integration (Day 3–4)
-- [ ] React chat UI
-- [ ] Language selector (10 Indian languages)
-- [ ] Lab Finder with map view
-- [ ] Frontend ↔ Backend integration
-
-### 🔄 Phase 4 — Polish & Demo (Day 4–5)
-- [ ] Multilingual support via IndicTrans2
-- [ ] WhatsApp bot (basic)
-- [ ] Demo video recording
-- [ ] Pitch deck finalization
 
 ---
 
@@ -409,7 +384,7 @@ All knowledge base documents are sourced from official BIS channels:
 
 ## ⚖️ License
 
-This project is built for **Smart India Hackathon 2025** under the problem statement by the **Ministry of Consumer Affairs, Food & Public Distribution**.
+This project is built for **Smart India Hackathon 2026** under the problem statement by the **Ministry of Consumer Affairs, Food & Public Distribution**.
 
 All BIS documents and Indian Standards referenced are the intellectual property of the **Bureau of Indian Standards**.
 
@@ -419,7 +394,7 @@ All BIS documents and Indian Standards referenced are the intellectual property 
 
 - **Bureau of Indian Standards (BIS)** for making standards accessible
 - **IIT Madras** for the IndicTrans2 translation model
-- **Smart India Hackathon 2025** organizing committee
+- **Smart India Hackathon 2026** organizing committee
 - **Ministry of Consumer Affairs** for defining this critical problem
 
 ---
