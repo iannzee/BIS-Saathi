@@ -320,7 +320,7 @@ ALLOWED_ORIGINS=http://localhost:3000
 ## 👥 Team
 
 **Team Name:** *(Your Team Name)*
-**SIH 2025 | PS ID26107**
+**SIH 2026 | PS ID26107**
 
 | Name | Role | Responsibilities |
 |---|---|---|
