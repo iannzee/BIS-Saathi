@@ -1,6 +1,6 @@
 # 🇮🇳 BIS Saathi — AI-Powered Intelligent Assistant for Indian Standards & BIS Services
 
-> **Smart India Hackathon 2025 | Problem Statement ID: 26107**
+> **Smart India Hackathon 2026 | Problem Statement ID: 26107**
 > Ministry of Consumer Affairs, Food & Public Distribution | Department of Consumer Affairs (DoCA)
 > Category: Software | Theme: Smart Automation
 
