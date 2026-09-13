@@ -232,7 +232,7 @@ bis-saathi/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_ORG/bis-saathi.git
+git clone https://github.com/iannzee/bis-saathi.git
 cd bis-saathi
 ```
 
